@@ -14,6 +14,7 @@ Welcome
 
 相关主页
 *   [Github](https://github.com/Rq2004)
+*   [个人博客](https://www.huangruiqi.com)
 *   [BiliBili](https://space.bilibili.com/1456646170)
 
 
