@@ -2,10 +2,9 @@ Welcome
 
 你可能感兴趣的
 *   [个人博客](https://www.huangruiqi.com)
-*   [我的卡网（也许你们会买点什么）](https://shop.hrq.icu)
-*   [我建的发卡平台（也许你们可以入驻）](https://fk.rqnb.xyz)
-*   [HRQの码支付平台（非常稳的免挂码支付）](https://pay.hrq.icu)
+*   [HRQの码支付平台（换轮训了）](https://lx.hrq.icu)
 *   [貌似有点问题的挂机网站/要用找我，免费！（虽然但是如果你们有钱的话我也不介意你们充点）](https://api.rqnb.xyz)
+*   [HRQの云服务器（我也卖上辣！）](https://ser.ishop.icu)
 
 一些小玩意
 *   [电子包浆器](https://bj.rqnb.xyz)
