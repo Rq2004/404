@@ -2,7 +2,7 @@ Welcome
 
 你可能感兴趣的
 *   [个人博客](https://www.huangruiqi.com)
-*   [HRQの码支付平台（换轮训了）](https://lx.hrq.icu)
+*   [HRQの码支付平台（改回来了）](https://pay.hrq.icu)
 *   [貌似有点问题的挂机网站/要用找我，免费！（虽然但是如果你们有钱的话我也不介意你们充点）](https://api.rqnb.xyz)
 *   [HRQの云服务器（我也卖上辣！）](https://ser.ishop.icu)
 
