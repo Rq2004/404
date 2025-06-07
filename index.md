@@ -28,7 +28,7 @@ Welcome
 *   [BiliBili](https://space.bilibili.com/1456646170)
 
 
-我的邮箱：3286756390@qq.com
+我的邮箱：[3286756390@qq.com](mailto:3286756390@qq.com)
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
