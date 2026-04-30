@@ -18,6 +18,7 @@ Welcome
 *   [便宜耐用的魔法](https://maomaoyun.net/#/register?code=v0JMwY8v)
 *   [贵点但稳与干净的魔法](https://www.sibker.com/register?code=u5tV0UBD)
 *   [富哥大机场(TAG)](https://tagss.pro/#/auth/5lEJmMuD)
+*   [多线路机场（没用过 但包含CDN中转 免疫拔线）](https://berrypass.net/#/register?code=zgxBmluJ)
 *   [卧槽哪？他妈的人民大机场吗？（一年12000G仅需20）](https://yes2.xn--mesv7f5toqlp.biz/register?code=bQcmwWtp)
 *   [好用的大模型API平台（带邀请码注册送14余额）](https://cloud.siliconflow.cn/i/qWsOioOo)
 *   [朋友的大模型API平台（自研大模型TIG）](https://phapi.furina.junmatec.cn/register?aff=CJxw)
