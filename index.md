@@ -16,6 +16,7 @@ Welcome
 *   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/RQNB_)
 *   [我在用的服务器商/平价](https://www.hgidc.cn/aff/WGPBWRCI)
 *   [便宜耐用的魔法](https://maomaoyun.net/#/register?code=v0JMwY8v)
+*   [WestData机场](https://wd-gold.net/aff.php?aff=14994)
 *   [贵点但稳与干净的魔法](https://www.sibker.com/register?code=u5tV0UBD)
 *   [富哥大机场(TAG)](https://tagss.pro/#/auth/5lEJmMuD)
 *   [多线路机场（没用过 但包含CDN中转 免疫拔线）](https://berrypass.net/#/register?code=zgxBmluJ)
