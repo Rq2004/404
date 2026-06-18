@@ -18,7 +18,7 @@ Welcome
 *   [便宜耐用的魔法](https://maomaoyun.net/#/register?code=v0JMwY8v)
 *   [WestData机场](https://wd-gold.net/aff.php?aff=14994)
 *   [魔戒机场（没用过 群u说好用）](https://mojie.xn--yrs494l.com/register?aff=Zv1DIzHF)
-*   [贵点但稳与干净的魔法](https://www.sibker.com/register?code=u5tV0UBD)
+*   [贵点但稳与干净的魔法](https://www.sibker.com/register?invite_code=u5tV0UBD)
 *   [富哥大机场(TAG)](https://tagss.pro/#/auth/5lEJmMuD)
 *   [多线路机场（没用过 但包含CDN中转 免疫拔线）](https://berrypass.net/#/register?code=zgxBmluJ)
 *   [卧槽哪？他妈的人民大机场吗？（一年12000G仅需20）](https://yes2.xn--mesv7f5toqlp.biz/register?code=bQcmwWtp)
